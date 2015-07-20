@@ -1,0 +1,3 @@
+An Android application that can flash Morse code with the default message as SOS.  This is the essential life-saving application you absolutely must have in your Android-powered phone!  Imagine your romantic Alaska cruise vacation goes Titanic, with little to non-existent cellphone signal coverage, the only thing you will ever need is a Morse-code-SOS-flashlight!
+
+There's more to this application, you can enter any phrase and it will translate into Morse codes and flash it out for you; very handy in the case you want to ask the girl next door for a date but too shy to say so... 8-B
